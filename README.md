@@ -15,11 +15,17 @@ Este projeto foi desenvolvido com foco em aprendizado e prática de programaçã
 🚀 Funcionalidades
 
 ✅ Geração automática de senhas seguras
+
 ✅ Interface gráfica simples e intuitiva
+
 ✅ Salvamento local das credenciais em arquivo .txt
+
 ✅ Validação de campos obrigatórios
+
 ✅ Confirmação antes de salvar os dados
+
 ✅ Mensagens informativas utilizando messagebox
+
 
 🛠️ Tecnologias utilizadas
 
@@ -58,6 +64,7 @@ Durante o desenvolvimento deste projeto foram utilizados conceitos importantes c
 📸 Interface do programa
 
 <img width="1366" height="725" alt="Print gerenciador senhas 2" src="https://github.com/user-attachments/assets/a2ead6e8-62b9-4928-bb7d-ea54ae7bff07" />
+
 
 
 🔒 Exemplo de senha gerada
